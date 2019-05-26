@@ -1,11 +1,9 @@
 h1{
-    color: rgb(1, 14, 44);
+    color: blueviolet;
 }
-
 a{
-    color: #88caf7;
+    color: rgb(0, 36, 83);
 }
-
 p{
-    color: hsl(199, 86%, 35%);
+    color: rgb(71, 74, 238);
 }

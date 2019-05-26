@@ -2,10 +2,10 @@
 
 {% block content %}
 
-    <h1>난 글 수정 페이지!</h2>
+    <h1>글 수정</h2>
     <form method="POST">
         {% csrf_token%}
         {{form.as_p}}
-        <button type="submit">수정이다</butthon>
+        <button type="submit">수정</butthon>
     </form>
 {% endblock %}
